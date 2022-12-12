@@ -19,7 +19,7 @@
     "concurrently": "^4.1.0",
     "csvtojson": "^2.0.8",
     "cuid": "^2.1.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "limax": "^1.7.0",
     "mongoose": "^5.3.15",

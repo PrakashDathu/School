@@ -28,7 +28,7 @@
     "nodemon": "^1.18.7",
     "notistack": "^0.9.6",
     "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0",
+    "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
     "randomstring": "^1.1.5",
     "sanitize-html": "^1.19.3"
